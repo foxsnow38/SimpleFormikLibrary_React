@@ -1,0 +1,1 @@
+hey there this project repesent of simple formik codes its showed by Mehmet Seven on Patika.dev Chanell if you wanna be you can watch here is the video:https://app.patika.dev/courses/react/formik-kurulum
